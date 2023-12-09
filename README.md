@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://github.com/eduardoleao052">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=2C89F7&multiline=true&width=500&height=50&lines=Eduardo+Leitão+da+Cunha+Opice+Leão;Engineering+Student+%7C+ML+Research+Intern+%7C+NLP" alt="Typing SVG" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=github_dark_dimmed)](https://github.com/eduardoleao052)
 </a>
 </p>
 
