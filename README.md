@@ -18,7 +18,7 @@ https://github-stats-alpha.vercel.app/api?username=eduardoleao052&cc=22272e&tc=3
 </a> -->
 
 <a href="https://github.com/eduardoleao052">
-    <img src="https://github-stats-alpha.vercel.app/api?username=eduardoleao052&theme=tokyonight">
+    <img src="https://github-stats-alpha.vercel.app/api?username=eduardoleao052&cc=22272e">
 </a>
 
 </p>
