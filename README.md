@@ -23,6 +23,7 @@
 <p align="center">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=github_dark_dimmed" />
 </p>
+
 <br/> 
 
 
@@ -40,6 +41,9 @@
 
 <br>
 </br>
+
+<br/>
+
 
 ## Technologies
 
