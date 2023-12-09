@@ -14,7 +14,7 @@
 
 </p>
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&theme=radical)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=tokyonight)
 
 * 🎓 Undergraduate in Mechatronics Engineering in the [University of São Paulo](https://www5.usp.br/). 
 
