@@ -27,10 +27,10 @@
 
 ### Technologies
 
-![PyTorch](https://img.shields.io/badge/PyTorch-4987eb?style=for-the-badge&logo=pytorch)
+![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch)
 ![SciPy](https://img.shields.io/badge/SciPy-grey?style=for-the-badge&logo=scipy)
 ![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-grey?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/NumPy-67B6EB?style=for-the-badge&logo=numpy)
 ![NumPy](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 
 
