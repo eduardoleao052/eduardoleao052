@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=2C89F7&multiline=true&width=500&height=80&lines=Eduardo+Leitão+da+Cunha+Opice+Leão;Engineering+Student+%7C+ML+Research+Intern+%7C+NLP" alt="Typing SVG" />
 </a>
 <br/>
+</p>
 
 ## About Me:
 <a href="https://www.linkedin.com/in/eduardoleao052/">
@@ -18,11 +19,6 @@
 
 * Feel free to contact me! I'm always interested in cool discussions, projects and ideas.
 
-<br>
-</br>
-
-
-</p>
 
 <p align="center">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=github_dark_dimmed" />
@@ -42,7 +38,8 @@
 <img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=CNN-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "40%" />
 </a>
 
-<br/>
+<br>
+</br>
 
 ## Technologies
 
