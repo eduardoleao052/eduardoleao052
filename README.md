@@ -80,8 +80,3 @@
 <a href="https://github.com/eduardoleao052/CNN-from-scratch.git">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </a>
-
-
-## 4. Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=github_dark_dimmed)](https://github.com/eduardoleao052)
