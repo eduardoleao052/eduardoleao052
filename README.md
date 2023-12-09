@@ -28,8 +28,8 @@
 
 
 ## 2. Projects
-* I am currently implementing many popular Deep Learning architectures from scratch, attempting to understand them better, but also to create a useful resource (with good documentation, and clear forward & backward passes) for ML learners.
-* My next step is leaning back towards application development and MLOps. I plan to learn more about APIs and backend development.
+* I am currently implementing many popular __Deep Learning architectures from scratch__, attempting to understand them better, but also to create a useful resource (with good documentation, and clear forward & backward passes) for ML learners.
+* My next step is leaning back towards application development and __MLOps__. I plan to learn more about APIs and backend development.
 
 
 <a href="https://github.com/eduardoleao052/Transformer-from-scratch">
