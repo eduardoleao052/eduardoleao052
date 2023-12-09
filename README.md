@@ -28,7 +28,7 @@
 ### Technologies
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch)
-![SciPy](https://img.shields.io/badge/SciPy-grey?style=for-the-badge&logo=scipy)
+![SciPy](https://img.shields.io/badge/SciPy-grey?style=for-the-badge&logo=matplotlib)
 ![Pandas](https://img.shields.io/badge/Pandas-142278?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-4D67CF?style=for-the-badge&logo=numpy)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
@@ -36,7 +36,7 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052)](https://github.com/eduardoleao052)
 
 
 
