@@ -21,8 +21,8 @@
 <br/>
 
 <p align="center">
-    <img height=270 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=github_dark_dimmed" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=github_dark_dimmed)](https://github.com/eduardoleao052)
+    <img height=270 src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=github_dark_dimmed" />
+    <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=github_dark_dimmed" />
 </p>
 
 <br/> 
