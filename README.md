@@ -14,8 +14,9 @@
 
 </p>
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=tokyonight)
-
+<a href="https://github.com/eduardoleao052">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=tokyonight" />
+</a>
 * 🎓 Undergraduate in Mechatronics Engineering in the [University of São Paulo](https://www5.usp.br/). 
 
 * 💻 Studying Machine Learning and NLP in a research internship.
