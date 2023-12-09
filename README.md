@@ -4,7 +4,6 @@
 </a>
 <br/>
 
-### Contact
 <a href="https://www.linkedin.com/in/eduardoleao052/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
