@@ -5,7 +5,7 @@
 <br/>
 </p>
 
-## About Me:
+## 1. About Me:
 <a href="https://www.linkedin.com/in/eduardoleao052/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a>
@@ -27,7 +27,7 @@
 <br/> 
 
 
-## Projects
+## 2. Projects
 
 <a href="https://github.com/eduardoleao052/Transformer-from-scratch">
 <img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=Transformer-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "40%" />
@@ -48,7 +48,7 @@
 
 
 
-## Technologies
+## 3. Technologies
 
 <a href="https://github.com/eduardoleao052/Transformer-from-scratch.git">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -75,6 +75,6 @@
 </a>
 
 
-### Stats
+## 4. Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=github_dark_dimmed)](https://github.com/eduardoleao052)
