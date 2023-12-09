@@ -1,21 +1,20 @@
 <p align="center">
 <a href="https://github.com/eduardoleao052">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Eduardo+Leitao+da+Cunha+Opice+Leao;Engineering+Student+%7C+ML+Research+Intern+%7C+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Eduardo+Leitão+da+Cunha+Opice+Leão;Engineering+Student+%7C+ML+Research+Intern+%7C+NLP" alt="Typing SVG" />
 </a>
 <br/>
 
-
+### Contact
 <a href="https://www.linkedin.com/in/eduardoleao052/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:eduardoleao052@usp.br">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
 <br/> 
 
 <!-- <a href="https://github.com/eduardoleao052">
-    <img src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=false&bg_color=00000000&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=tokyonight">
 </a> -->
 
 <a href="https://github.com/eduardoleao052">
@@ -24,16 +23,19 @@
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 🎓 Undergraduate in Mechatronics Engineering in the [University of São Paulo](https://www5.usp.br/). 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 💻 Studying Machine Learning and NLP in a research internship.
 
-* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
+### Projects
 
-### 🖥️ Open-Source Projects
-<table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
-<tr><td>
+### Technologies
+
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)
+![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)
+
 
 |Title | Stars | Technologies|
 |--|--|--|
@@ -48,7 +50,6 @@
 | [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 | [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 
-</td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
