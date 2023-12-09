@@ -16,7 +16,7 @@
 
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=tokyonight" />
-</a>
+</p>
 <br/> 
 * 🎓 Undergraduate in Mechatronics Engineering in the [University of São Paulo](https://www5.usp.br/). 
 
