@@ -28,9 +28,9 @@
 ### Technologies
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch)
-![SciPy](https://img.shields.io/badge/SciPy-white?style=flat-square&logo=scipy)
-![Pandas](https://img.shields.io/badge/Pandas-white?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-white?style=flat-square&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-grey?style=for-the-badge&logo=javascript)
+![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=javascript)
+![NumPy](https://img.shields.io/badge/NumPy-grey?style=for-the-badge&logo=javascript)
 
 ### Stats
 
