@@ -27,10 +27,13 @@
 
 ### Technologies
 
-![PyTorch](https://img.shields.io/badge/PyTorch-C9C9C9?style=for-the-badge&logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-142278?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-4D67CF?style=for-the-badge&logo=numpy)
-![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 
 ### Stats
