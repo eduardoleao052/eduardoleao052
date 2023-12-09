@@ -59,7 +59,7 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052)](https://github.com/eduardoleao052)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=kacho_ga)](https://github.com/eduardoleao052)
 
 
 
