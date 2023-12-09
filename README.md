@@ -18,13 +18,9 @@
 
 * Feel free to contact me! I'm always interested in cool discussions, projects and ideas.
 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-
+<br>
+<br>
+<br><br><br><br>
 
 
 </p>
