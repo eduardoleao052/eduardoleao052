@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-* Undergraduate in __Mechatronics Engineering__ in the [University of São Paulo](https://www5.usp.br/). 
+* Undergraduate in __Mechatronics Engineering__ in the University of São Paulo. 
 
 * Studying __Machine Learning and NLP__ in a research internship.
 
