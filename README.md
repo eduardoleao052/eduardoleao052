@@ -40,10 +40,8 @@
 <img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=LSTM-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "43%" />
 </a>
 
-<p height = "10px"></p>
-
 <a href="https://github.com/eduardoleao052/CNN-from-scratch">
-<img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=CNN-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "43%" />
+<img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=CNN-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "43%" style = "margin-bottom:10px"/>
 </a>
 
 <br>
