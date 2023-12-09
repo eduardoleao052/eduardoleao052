@@ -18,6 +18,7 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=tokyonight" />
 </p>
 <br/> 
+
 * 🎓 Undergraduate in Mechatronics Engineering in the [University of São Paulo](https://www5.usp.br/). 
 
 * 💻 Studying Machine Learning and NLP in a research internship.
@@ -26,10 +27,10 @@
 
 ### Technologies
 
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)
-![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch)
+![SciPy](https://img.shields.io/badge/SciPy-white?style=flat-square&logo=scipy)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=flat-square&logo=numpy)
 
 ### Stats
 
