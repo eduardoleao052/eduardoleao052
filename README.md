@@ -36,6 +36,11 @@ https://github-stats-alpha.vercel.app/api?username=eduardoleao052&cc=22272e&tc=3
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)
 
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 |Title | Stars | Technologies|
 |--|--|--|
