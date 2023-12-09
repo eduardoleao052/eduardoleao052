@@ -4,6 +4,12 @@
 </a>
 <br/>
 
+## About Me:
+
+* 🎓 Undergraduate in Mechatronics Engineering in the [University of São Paulo](https://www5.usp.br/). 
+
+* 💻 Studying Machine Learning and NLP in a research internship.
+
 <a href="https://www.linkedin.com/in/eduardoleao052/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
@@ -19,13 +25,10 @@
 </p>
 <br/> 
 
-* 🎓 Undergraduate in Mechatronics Engineering in the [University of São Paulo](https://www5.usp.br/). 
 
-* 💻 Studying Machine Learning and NLP in a research internship.
+## Projects
 
-### Projects
-
-### Technologies
+## Technologies
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
