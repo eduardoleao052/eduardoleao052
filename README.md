@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=slateorange" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoleao052&show_icons=true&hide_rank=true&theme=github_dark_dimmed" />
 </p>
 <br/> 
 
@@ -59,7 +59,7 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=slateorange)](https://github.com/eduardoleao052)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleao052&theme=github_dark_dimmed)](https://github.com/eduardoleao052)
 
 
 
