@@ -35,7 +35,7 @@
 
 <p align="center" width = "45%">
 <a href="https://github.com/eduardoleao052/Transformer-from-scratch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=Transformer-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=Transformer-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "43%"/>
 </a>
 
 <a href="https://github.com/eduardoleao052/LSTM-from-scratch">
