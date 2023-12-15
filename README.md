@@ -38,7 +38,7 @@
 * My next step is leaning back towards application development and __MLOps__. I plan to learn more about APIs and backend development.
 
 <a href="https://github.com/eduardoleao052/Transformer-from-scratch">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=Transformer-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "44%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=Transformer-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "48%"/>
 </a>
 
 <a href="https://github.com/eduardoleao052/LSTM-from-scratch">
