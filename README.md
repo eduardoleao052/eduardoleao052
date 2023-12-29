@@ -33,7 +33,7 @@
 
 
 ## 2. Projects
-* I am currently implementing many popular __Deep Learning architectures from scratch__, attempting to understand them better, but also to create a useful resource (with good documentation, and clear forward & backward passes) for ML learners.
+* I am currently implementing many popular __Deep Learning architectures from scratch__. My goal is to understand them better, but also to create a useful resource (with good documentation, and clear forward & backward passes) for ML learners.
   
 * My next step is leaning back towards application development and __MLOps__. I plan to learn more about APIs and backend development.
 
