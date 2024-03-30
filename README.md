@@ -82,7 +82,7 @@
 </a>
 </br>
 <a href="https://github.com/eduardoleao052">
-    <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-043D46?style=for-the-badge&logo=javascript&logoColor=yellow">
 </a>
 </br>
 <a href="https://github.com/eduardoleao052/js-torch">
