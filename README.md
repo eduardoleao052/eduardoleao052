@@ -45,7 +45,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=LSTM-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "46%" />
 </a>
 
-<br/>
+</br>
 
 <a href="https://github.com/eduardoleao052/Autograd-from-scratch">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=Autograd-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "46%" />
