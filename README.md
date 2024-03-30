@@ -81,9 +81,6 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 </br>
-<a href="https://github.com/eduardoleao052">
-    <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=git&logoColor=white">
-</a>
 <a href="https://github.com/eduardoleao052/js-torch">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </a>
