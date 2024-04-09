@@ -45,7 +45,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=Transformer-from-scratch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "46%"/>
 </a>
 
-<a href="https://github.com/eduardoleao052/js-torch">
+<a href="https://github.com/eduardoleao052/js-pytorch">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoleao052&repo=js-torch&show_icons=true&hide_border=false&theme=github_dark_dimmed" width = "46%" />
 </a>
 
