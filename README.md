@@ -14,7 +14,7 @@
 
 * Undergraduate in __Mechatronics Engineering__ in the University of São Paulo. 
 
-* Studying __Machine Learning and NLP__ in a research internship.
+* Studying __Machine Learning and NLP__.
 
 * Feel free to contact me! I'm always interested in cool discussions, projects and ideas.
 
