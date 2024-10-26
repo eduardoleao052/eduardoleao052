@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/JavaScript-4C4C4C?style=for-the-badge&logo=javascript&logoColor=yellow">
 </a>
 <a href="https://github.com/eduardoleao052">
-    <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=blue">
+    <img src="https://img.shields.io/badge/React-F9F9F9?style=for-the-badge&logo=react&logoColor=blue">
 </a>
 </br>
 <a href="https://github.com/eduardoleao052/js-torch">
